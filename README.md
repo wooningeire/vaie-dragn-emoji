@@ -7,10 +7,12 @@ Noto blob- and Twemoji-styled dragon emoji that I've made! Inspired by the [orig
 (At 48px, or Discord's jumbo emoji size)
 
 [<img alt="Yellow and blue dragons in a winghug embrace" src="dragnwinghug.svg" width="48" />](dragnwinghug.svg)
-[<img alt="Blue dragons in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/65bb845d-fe72-49bc-bd0f-b9b6e601d77f" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/65bb845d-fe72-49bc-bd0f-b9b6e601d77f)
-[<img alt="Yellow dragon and a human in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/856fcb7b-7ad1-4ebe-b67d-613650152b78" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/856fcb7b-7ad1-4ebe-b67d-613650152b78)
-[<img alt="Yellow dragon and a human in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/9e8207b3-5375-4478-8229-897d8654827d" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/9e8207b3-5375-4478-8229-897d8654827d)
+[<img alt="Blue dragons in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/251e6a89-ff16-43a6-b9bc-514e1b2c4b15" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/251e6a89-ff16-43a6-b9bc-514e1b2c4b15)
+[<img alt="Yellow dragon and a human in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/27271f6d-8c9c-4b11-a3fd-0989330954ca" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/27271f6d-8c9c-4b11-a3fd-0989330954ca)
+[<img alt="Blue dragon and a human in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/33203911-873e-4a5c-9586-e3338e029a0b" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/33203911-873e-4a5c-9586-e3338e029a0b)
+[<img alt="Blue dragons in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/dcc6d24a-4a1d-4e56-86ab-41e58a5f06ec" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/dcc6d24a-4a1d-4e56-86ab-41e58a5f06ec)
 [<img alt="Top half of a dragon's skull" src="dragnskull.svg" width="48" />](dragnskull.svg)
+
 
 ### derivatives
 Emoji created using khr's as a template; licensed under the [same license as khr's emoji](https://github.com/chr-1x/dragn-emoji/tree/master/LICENSE.md).
