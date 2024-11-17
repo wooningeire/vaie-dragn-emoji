@@ -12,6 +12,7 @@ Noto blob- and Twemoji-styled dragon emoji that I've made! Inspired by the [orig
 [<img alt="Blue dragon and a human in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/33203911-873e-4a5c-9586-e3338e029a0b" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/33203911-873e-4a5c-9586-e3338e029a0b)
 [<img alt="Blue dragons in a winghug embrace" src="https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/dcc6d24a-4a1d-4e56-86ab-41e58a5f06ec" width="48" />](https://github.com/wooningeire/vaie-dragn-emoji/assets/22846982/dcc6d24a-4a1d-4e56-86ab-41e58a5f06ec)
 [<img alt="Top half of a dragon's skull" src="dragnskull.svg" width="48" />](dragnskull.svg)
+[<img alt="Dragon's head and neck tilted upward in pride, with sparkles around" src="dragnbratty.svg" width="48" />](dragnbratty.svg)
 
 
 ### derivatives
